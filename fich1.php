@@ -1,3 +1,3 @@
 <?php //Archivo 1 
-echo "hola"
+echo "hola 2"
 ?>
